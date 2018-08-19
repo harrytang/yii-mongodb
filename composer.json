@@ -17,10 +17,6 @@
             "email": "klimov.paul@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/core": "^1.0",
-        "ext-mongodb": ">=1.0.0"
-    },
     "repositories": [
         {
             "type": "composer",
